@@ -5,617 +5,651 @@
     <link>https://es.tradingview.com/news/</link>
     <description>Todas las noticias públicas mostradas por TradingView España, sin filtros por empresa, mercado, activo o proveedor.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:28:45 +0000</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/tradingview-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hace 16 minutos Reuters Lucid y Bolt se alían para poner en circulación 25 000 robotaxis en toda Europa</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459139:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459139:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459139:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 18 minutos TradingView Datos clave: XRPUSD cae ~10%; $26.9 millones en liquidaciones de posiciones largas, financiación negativa y volumen institucional</title>
-      <link>https://es.tradingview.com/news/tradingview:7536a0d7444de:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/tradingview:7536a0d7444de:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/tradingview:7536a0d7444de:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 18 minutos TradingView Datos clave: ZECUSD aprueba bloques de 25 segundos y halving; Ledger añade protección blindada</title>
-      <link>https://es.tradingview.com/news/tradingview:c298c31260981:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/tradingview:c298c31260981:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/tradingview:c298c31260981:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 19 minutos TradingView Datos clave: H.R. 8957 avanza; CRYPTO:BTCUSD registra salidas de $450 millones, interés abierto +0.68%</title>
-      <link>https://es.tradingview.com/news/tradingview:56685c54e1926:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/tradingview:56685c54e1926:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/tradingview:56685c54e1926:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 20 minutos Reuters Fabricantes automóviles chinos buscan fábricas en Europa ante nueva normativa UE sobre contenido local: asesor BYD</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590OT:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590OT:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590OT:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 27 minutos Reuters El dólar cae desde máximos mientras precios del petróleo continúan bajando</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590ON:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590ON:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590ON:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 33 minutos Reuters Lockheed Martin desvela un nuevo misil secreto y acelera su producción</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911Q:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911Q:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911Q:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 33 minutos Reuters Bolt y Lucid se fijan el objetivo de alcanzar al menos 25 000 vehículos autónomos en Europa</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911N:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911N:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911N:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 33 minutos Reuters Lucid y Bolt se alían para poner en marcha 25 000 robotaxis en toda Europa</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911L:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911L:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911L:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 33 minutos Cointelegraph Los hackers estatales impulsan un aumento del 420% del malware onchain, según Chainalysis</title>
-      <link>https://es.tradingview.com/news/cointelegraph:25669066109cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:25669066109cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:25669066109cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 41 minutos Reuters Volvo Cars tiene previsto lanzar 13 nuevos modelos de aquí a 2030 con el objetivo de duplicar su cuota de mercado</title>
+      <title>hace 2 horas Reuters Volvo Cars tiene previsto lanzar 13 nuevos modelos de aquí a 2030 con el objetivo de duplicar su cuota de mercado</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459104:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459104:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459104:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 43 minutos Reuters Los futuros bursátiles estadounidenses suben a medida que el retroceso del petróleo refuerza el impulso de la subida de tasas de la Fed</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590ZF:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590ZF:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590ZF:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 1 hora Reuters Celcuity, Fluence Energy, Salesforce</title>
+      <title>hace 2 horas Reuters Celcuity, Fluence Energy, Salesforce</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Z0:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Z0:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Z0:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 1 hora Reuters Generac, Jefferies, Aethlon Medical</title>
+      <title>hace 2 horas Reuters Generac, Jefferies, Aethlon Medical</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590YU:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590YU:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590YU:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 1 hora Europa Press Las ocupaciones más expuestas a la IA crecen más que la media en España y no destruyen empleo por ahora</title>
-      <link>https://es.tradingview.com/news/europapress:7803e884c09cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/europapress:7803e884c09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/europapress:7803e884c09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>N hace 1 hora Reuters Según fuentes, Apollo estudia opciones de venta para Energos, operador de infraestructuras de GNL flotante</title>
+      <title>N hace 2 horas Reuters Según fuentes, Apollo estudia opciones de venta para Energos, operador de infraestructuras de GNL flotante</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Y6:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Y6:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Y6:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 1 hora Reuters Trump podría no ver otra bajada de tipos mientras sea presidente: McGeever</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590XY:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590XY:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590XY:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 1 hora Reuters El cobre se recupera con el regreso de compradores chinos al mercado</title>
+      <title>hace 2 horas Reuters El cobre se recupera con el regreso de compradores chinos al mercado</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NP:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NP:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NP:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 1 hora Reuters La empresa india Tata Sons vuelve a nombrar a Chandrasekaran presidente en un giro inesperado</title>
+      <title>hace 2 horas Reuters La empresa india Tata Sons vuelve a nombrar a Chandrasekaran presidente en un giro inesperado</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590X6:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590X6:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590X6:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 1 hora Reuters Según se informa, Blackstone se dispone a vender la filial asiática de Clarion Events — Bloomberg News</title>
+      <title>hace 2 horas Reuters Según se informa, Blackstone se dispone a vender la filial asiática de Clarion Events — Bloomberg News</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590WZ:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590WZ:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590WZ:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 1 hora Reuters El Banco de Inglaterra alerta sobre la inflación pese a mantener las tasas de interés</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NK:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NK:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NK:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 2 horas Reuters La empresa francesa Thales insta a crear un marco internacional para el desarrollo de la inteligencia artificial</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590W6:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590W6:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590W6:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 2 horas Reuters Aetna, de CVS Health, agilizará las autorizaciones para el tratamiento del cáncer</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VX:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VX:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VX:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 2 horas Reuters Tesla recurre a Forum Mobility para instalar estaciones de recarga de camiones eléctricos en California</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VP:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VP:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VP:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 2 horas Reuters Vicecanciller alemán insta a adoptar medidas contra las importaciones de autos híbridos chinos</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590MQ:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590MQ:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590MQ:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 2 horas Finanzas.com El euríbor hoy: la primera caída importante de septiembre aleja la tasa del 3,4 %</title>
-      <link>https://es.tradingview.com/news/finanzas:ab732b71609cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/finanzas:ab732b71609cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/finanzas:ab732b71609cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Actividad corporativa ﻿ ﻿</title>
-      <link>https://es.tradingview.com/news/corporate-activity/all/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/corporate-activity/all/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/corporate-activity/all/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 2 horas Reuters Haniel vende su participación mayoritaria en BauWatch a Carlyle y CVC</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VC:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VC:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590VC:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 2 horas Reuters Un tribunal alemán declara a Meta responsable de anuncios falsos en Instagram y Facebook</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590M9:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590M9:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590M9:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 2 horas Reuters Las empresas farmacéuticas se preparan para la siguiente fase de los medicamentos espaciales a medida que se acerca el fin de la vida útil de la ISS</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590QC:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590QC:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590QC:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 2 horas Reuters La NASA afirma que la vida útil del nuevo Telescopio Roman podría más que duplicarse, hasta alcanzar los 22 años</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Q5:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Q5:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Q5:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 2 horas Reuters Según un memorándum, BofA contrata a Srijith Nair, de Goldman, para dirigir la banca dirigida a instituciones financieras de Asia, excepto China</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590OP:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590OP:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590OP:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 3 horas Reuters Las acciones de Berentzen se disparan mientras Sazerac estudia la adquisición del fabricante alemán de aguardiente</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590N7:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590N7:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590N7:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 3 horas Reuters La empresa china Huawei afirma que la demanda de chips de IA supera a la oferta, al tiempo que intensifica su competencia con Nvidia</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LM:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LM:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LM:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <title>hace 1 hora Cointelegraph Los hackers estatales impulsan un aumento del 420% del malware onchain, según Chainalysis</title>
+      <link>https://es.tradingview.com/news/cointelegraph:25669066109cd:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:25669066109cd:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:25669066109cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 2 horas Cointelegraph Zcash gana un 20% mientras el fundador de Paradigm revela que la firma invirtió en ZEC</title>
       <link>https://es.tradingview.com/news/cointelegraph:94c51a1df09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:94c51a1df09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:94c51a1df09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 2 horas Cointelegraph Usuarios de Polymarket remitidos a fiscales en Corea del Sur: informe</title>
+      <title>hace 3 horas Cointelegraph Usuarios de Polymarket remitidos a fiscales en Corea del Sur: informe</title>
       <link>https://es.tradingview.com/news/cointelegraph:341668efd09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:341668efd09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:341668efd09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 3 horas Beincrypto ¿Se avecina la Reserva Estratégica de Bitcoin de EEUU? Comité de la Cámara vota 28-21</title>
+      <title>hace 4 horas Beincrypto ¿Se avecina la Reserva Estratégica de Bitcoin de EEUU? Comité de la Cámara vota 28-21</title>
       <link>https://es.tradingview.com/news/beincrypto:eb92ca93c09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/beincrypto:eb92ca93c09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/beincrypto:eb92ca93c09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 3 horas Cointelegraph Las tesorerías de Bitcoin compran apenas 5.900 BTC en tres meses mientras persisten las pérdidas contables</title>
+      <title>hace 4 horas Cointelegraph Las tesorerías de Bitcoin compran apenas 5.900 BTC en tres meses mientras persisten las pérdidas contables</title>
       <link>https://es.tradingview.com/news/cointelegraph:9022d205609cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:9022d205609cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:9022d205609cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 6 horas Invezz Bitcoin mantiene soporte clave: ¿por qué empeoran las señales de impulso?</title>
+      <title>hace 7 horas Invezz Bitcoin mantiene soporte clave: ¿por qué empeoran las señales de impulso?</title>
       <link>https://es.tradingview.com/news/invezz:f64508cf209cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/invezz:f64508cf209cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/invezz:f64508cf209cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 6 horas Cointelegraph BitMEX se enfrenta a una demanda de Celsius antes del cierre del exchange</title>
+      <title>hace 7 horas Cointelegraph BitMEX se enfrenta a una demanda de Celsius antes del cierre del exchange</title>
       <link>https://es.tradingview.com/news/cointelegraph:1ae96aca109cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:1ae96aca109cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:1ae96aca109cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 8 horas Invezz XRP perdió apalancamiento tras la subida de la Fed y eso podría favorecer a los alcistas</title>
+      <title>hace 9 horas Invezz XRP perdió apalancamiento tras la subida de la Fed y eso podría favorecer a los alcistas</title>
       <link>https://es.tradingview.com/news/invezz:cf0fffa4609cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/invezz:cf0fffa4609cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/invezz:cf0fffa4609cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 9 horas Cointelegraph Bitcoin absorbe la subida de tipos de la Fed mientras los funcionarios prevén un mayor endurecimiento</title>
+      <title>hace 10 horas Cointelegraph Bitcoin absorbe la subida de tipos de la Fed mientras los funcionarios prevén un mayor endurecimiento</title>
       <link>https://es.tradingview.com/news/cointelegraph:2838b54d909cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:2838b54d909cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:2838b54d909cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 11 horas Estrategias de Inversión Bitcoin: ¿formando un mínimo del ciclo diario?</title>
+      <title>hace 12 horas Estrategias de Inversión Bitcoin: ¿formando un mínimo del ciclo diario?</title>
       <link>https://es.tradingview.com/news/estrategiasdeinversion:a5d66cd8009cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/estrategiasdeinversion:a5d66cd8009cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/estrategiasdeinversion:a5d66cd8009cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 12 horas Cointelegraph Legisladores de EE. UU. avanzan un proyecto de ley para convertir en ley la reserva de Bitcoin de Trump</title>
+      <title>hace 13 horas Cointelegraph Legisladores de EE. UU. avanzan un proyecto de ley para convertir en ley la reserva de Bitcoin de Trump</title>
       <link>https://es.tradingview.com/news/cointelegraph:1d0a34c8309cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:1d0a34c8309cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:1d0a34c8309cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 15 horas Cointelegraph La Ley CLARITY podría tener otra oportunidad durante la sesión poselectoral, afirma un defensor de políticas</title>
+      <title>hace 16 horas Cointelegraph La Ley CLARITY podría tener otra oportunidad durante la sesión poselectoral, afirma un defensor de políticas</title>
       <link>https://es.tradingview.com/news/cointelegraph:09359cf8e09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:09359cf8e09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:09359cf8e09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 16 horas Beincrypto Bitcoin supera al oro como la verdadera cobertura contra la devaluación, dice Raoul Pal</title>
+      <title>hace 17 horas Beincrypto Bitcoin supera al oro como la verdadera cobertura contra la devaluación, dice Raoul Pal</title>
       <link>https://es.tradingview.com/news/beincrypto:4869da23509cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/beincrypto:4869da23509cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/beincrypto:4869da23509cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 17 horas Cointelegraph Esto es lo que ocurrió hoy en el mundo cripto</title>
+      <title>hace 18 horas Cointelegraph Esto es lo que ocurrió hoy en el mundo cripto</title>
       <link>https://es.tradingview.com/news/cointelegraph:8ad42b5c609cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:8ad42b5c609cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:8ad42b5c609cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 17 horas Cointelegraph La FCA del Reino Unido establece directrices de autorización de criptoactivos antes del periodo de solicitudes de septiembre</title>
+      <title>hace 18 horas Cointelegraph La FCA del Reino Unido establece directrices de autorización de criptoactivos antes del periodo de solicitudes de septiembre</title>
       <link>https://es.tradingview.com/news/cointelegraph:06634da6709cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:06634da6709cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:06634da6709cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 17 horas Beincrypto Celsius demanda a BitMEX por 6,360 Bitcoin perdidos</title>
+      <title>hace 18 horas Beincrypto Celsius demanda a BitMEX por 6,360 Bitcoin perdidos</title>
       <link>https://es.tradingview.com/news/beincrypto:b1c96645e09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/beincrypto:b1c96645e09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/beincrypto:b1c96645e09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 18 horas Cointelegraph El comité tributario de la Cámara de Representantes de EE. UU. avanza una reforma fiscal de los criptoactivos en una votación de 38–5</title>
+      <title>hace 19 horas Cointelegraph El comité tributario de la Cámara de Representantes de EE. UU. avanza una reforma fiscal de los criptoactivos en una votación de 38–5</title>
       <link>https://es.tradingview.com/news/cointelegraph:39b14e5fa09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:39b14e5fa09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:39b14e5fa09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 20 horas Cointelegraph Anchorage amplía la custodia institucional a Etherlink y al uranio tokenizado</title>
+      <title>hace 21 horas Cointelegraph Anchorage amplía la custodia institucional a Etherlink y al uranio tokenizado</title>
       <link>https://es.tradingview.com/news/cointelegraph:717e26f0909cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:717e26f0909cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:717e26f0909cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 21 horas Cointelegraph Bitcoin espera la decisión de la Fed sobre las tasas por debajo de los 76.000 $, mientras el análisis descarta probabilidades de una «sorpresa moderada»</title>
       <link>https://es.tradingview.com/news/cointelegraph:4684da6db09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:4684da6db09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:4684da6db09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 21 horas Reuters La derrota del proyecto de ley sobre criptomonedas pone de manifiesto los límites de la maquinaria política del sector</title>
+      <title>ayer Reuters La derrota del proyecto de ley sobre criptomonedas pone de manifiesto los límites de la maquinaria política del sector</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45817E:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45817E:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45817E:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Beincrypto Cofundador de Solana celebra venta de cráneo de dinosaurio tokenizado por $660,000</title>
       <link>https://es.tradingview.com/news/beincrypto:fa6a24e0d09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/beincrypto:fa6a24e0d09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/beincrypto:fa6a24e0d09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Invezz El precio de Solana afronta mayor riesgo a la baja pese a la actualización de la red</title>
       <link>https://es.tradingview.com/news/invezz:46bcbcb8509cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/invezz:46bcbcb8509cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/invezz:46bcbcb8509cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Cointelegraph Bernstein espera una elaboración «agresiva» de normas por parte de la SEC y la CFTC tras el fracaso de la CLARITY Act</title>
       <link>https://es.tradingview.com/news/cointelegraph:940b178f609cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:940b178f609cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:940b178f609cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Beincrypto Bitcoin y XRP esperan a la Fed tras el fracaso de la CLARITY Act: ¿Se avecina otro golpe?</title>
       <link>https://es.tradingview.com/news/beincrypto:489b36af509cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/beincrypto:489b36af509cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/beincrypto:489b36af509cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Cointelegraph Los holders de Zcash respaldan bloques de 25 segundos y votan por mantener el calendario de halvings</title>
       <link>https://es.tradingview.com/news/cointelegraph:739baba7d09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:739baba7d09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:739baba7d09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Cointelegraph Circle lanza la mainnet de Arc con USDC como token nativo para el gas</title>
       <link>https://es.tradingview.com/news/cointelegraph:bb2c604b509cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:bb2c604b509cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:bb2c604b509cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Cointelegraph Deutsche Bank espera la aprobación regulatoria para lanzar soluciones institucionales de custodia de criptoactivos</title>
       <link>https://es.tradingview.com/news/cointelegraph:98bccc64f09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:98bccc64f09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:98bccc64f09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ayer Estrategias de Inversión Circle (USDC) vincula a grandes firmas de Wall Street a su blockchain Arc</title>
       <link>https://es.tradingview.com/news/estrategiasdeinversion:55fff3b3b09cd:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/estrategiasdeinversion:55fff3b3b09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/estrategiasdeinversion:55fff3b3b09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ayer Invezz El precio de Cardano pierde soporte clave: ¿podría ADA caer otro 15% desde aquí?</title>
-      <link>https://es.tradingview.com/news/invezz:7dcf79aec09cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/invezz:7dcf79aec09cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/invezz:7dcf79aec09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <title>hace 2 horas Reuters Los futuros bursátiles estadounidenses suben a medida que el retroceso del petróleo refuerza el impulso de la subida de tasas de la Fed</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590ZF:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590ZF:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590ZF:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ayer Cointelegraph Etiopía reduce en un 77% la electricidad para los mineros de Bitcoin ante la escasez hidroeléctrica: informe</title>
-      <link>https://es.tradingview.com/news/cointelegraph:b551f04f909cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:b551f04f909cd:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:b551f04f909cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <title>hace 2 horas Europa Press Las ocupaciones más expuestas a la IA crecen más que la media en España y no destruyen empleo por ahora</title>
+      <link>https://es.tradingview.com/news/europapress:7803e884c09cd:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/europapress:7803e884c09cd:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/europapress:7803e884c09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 2 horas Reuters Las principales agencias de valores prevén una subida más de las tasas de interés por parte de la Fed en 2026 tras la reunión sobre política monetaria</title>
+      <title>hace 2 horas Reuters Trump podría no ver otra bajada de tipos mientras sea presidente: McGeever</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590XY:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590XY:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590XY:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 2 horas Reuters El Banco de Inglaterra alerta sobre la inflación pese a mantener las tasas de interés</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NK:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NK:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590NK:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 2 horas Finanzas.com El euríbor hoy: la primera caída importante de septiembre aleja la tasa del 3,4 %</title>
+      <link>https://es.tradingview.com/news/finanzas:ab732b71609cd:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/finanzas:ab732b71609cd:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/finanzas:ab732b71609cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 3 horas Reuters Las principales agencias de valores prevén una subida más de las tasas de interés por parte de la Fed en 2026 tras la reunión sobre política monetaria</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590TQ:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590TQ:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590TQ:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 3 horas Reuters El banco central de Taiwán mantiene las tasas de interés y señala una postura de endurecimiento</title>
+      <title>hace 4 horas Reuters El banco central de Taiwán mantiene las tasas de interés y señala una postura de endurecimiento</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590MG:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590MG:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590MG:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 3 horas Reuters DATOS MACRO- El IPC de eurozona sube un 0,4%​​​​​​​ intermensual en agosto​, en línea con lo previsto</title>
+      <title>hace 4 horas Reuters DATOS MACRO- El IPC de eurozona sube un 0,4%​​​​​​​ intermensual en agosto​, en línea con lo previsto</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LA:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LA:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LA:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 3 horas Reuters El banco central de Taiwán mantiene la tasa de interés de referencia sin cambios en el 2 %, tal y como se esperaba</title>
+      <title>hace 4 horas Reuters El banco central de Taiwán mantiene la tasa de interés de referencia sin cambios en el 2 %, tal y como se esperaba</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590L7:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590L7:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590L7:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 4 horas Reuters Goldman Sachs prevé un endurecimiento adicional de la Fed en octubre</title>
+      <title>hace 5 horas Reuters Goldman Sachs prevé un endurecimiento adicional de la Fed en octubre</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590FP:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590FP:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590FP:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 5 horas Reuters El BoE mantendrá las tasas, pero la crisis energética aviva los rumores de una subida</title>
+      <title>hace 6 horas Reuters El BoE mantendrá las tasas, pero la crisis energética aviva los rumores de una subida</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590D5:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590D5:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590D5:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 5 horas Reuters El dólar se fortalece tras la reunión de la Fed a la espera del BoE y el BoJ</title>
+      <title>hace 6 horas Reuters El dólar se fortalece tras la reunión de la Fed a la espera del BoE y el BoJ</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590CU:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590CU:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590CU:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 6 horas Reuters Las bolsas suben ligeramente y el dólar avanza tras la reunión de la Fed</title>
+      <title>hace 7 horas Reuters Las bolsas suben ligeramente y el dólar avanza tras la reunión de la Fed</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590BI:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590BI:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590BI:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>hace 7 horas Reuters Las acciones suben ligeramente tras la subida de tasas de la Fed; el dólar se mantiene firme ante los rendimientos a corto plazo</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45909K:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45909K:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45909K:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 7 horas Reuters Las acciones indias suben por las compras de oportunidad; la Fed y el petróleo limitan las ganancias</title>
+      <title>hace 8 horas Reuters Las acciones indias suben por las compras de oportunidad; la Fed y el petróleo limitan las ganancias</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45908G:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45908G:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45908G:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 7 horas Reuters La Fed refuerza su credibilidad, pero su giro hacia una política monetaria más restrictiva mantiene a los inversionistas en vilo</title>
+      <title>hace 8 horas Reuters La Fed refuerza su credibilidad, pero su giro hacia una política monetaria más restrictiva mantiene a los inversionistas en vilo</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45907F:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45907F:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45907F:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 8 horas Reuters Según informan los medios de comunicación, Indonesia comenzará a recaudar impuestos sobre el comercio electrónico a partir del 1 de octubre</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45905Q:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45905Q:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45905Q:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 8 horas Reuters Las acciones indias se mantienen estables tras la subida de tasas de la Fed; la OPI de la NSE, en el punto de mira</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45904G:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45904G:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45904G:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 9 horas Reuters La previsión de Goldman de una subida de tasas en octubre pone de relieve los renovados riesgos de endurecimiento de la política monetaria de la Fed</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45903T:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45903T:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45903T:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 10 horas Reuters Se prevé que la bolsa india abra sin cambios tras las señales de la Fed de nuevas subidas de tasas; la salida a bolsa de la NSE acapara la atención</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902S:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902S:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902S:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>3 hace 10 horas Reuters Las acciones suben ligeramente tras la subida de tipos de la Fed; el dólar se dispara junto con los rendimientos a corto plazo</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902J:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902J:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902J:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 11 horas Reuters Goldman Sachs prevé ahora que la Fed vuelva a subir las tasas de interés en octubre</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901M:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901M:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901M:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 11 horas Reuters Estados Unidos relaja temporalmente las restricciones sobre las horas de trabajo de los conductores de camiones cisterna</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901C:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901C:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901C:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 13 horas Reuters La Cámara de Representantes de EEUU aprueba el primer proyecto de ley que aborda las repercusiones económicas del auge de los centros de datos</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45824L:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45824L:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45824L:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 14 horas Reuters Trump afirma que sigue confiando en el presidente de la Reserva Federal, Warsh</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45823J:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45823J:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45823J:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Principales proveedores ﻿ ﻿</title>
       <link>https://es.tradingview.com/news/top-providers/reuters/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/top-providers/reuters/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/top-providers/reuters/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 32 minutos Reuters Australia se plantea prohibir el uso de gafas inteligentes en los edificios públicos</title>
+      <title>hace 29 minutos Reuters En Silicon Valley, el auge de los centros de datos de IA se enfrenta a la resistencia local</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590P5:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590P5:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590P5:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 34 minutos Reuters NASA dice que vida útil de nuevo telescopio Roman podría más que duplicarse, hasta los 22 años</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590P3:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590P3:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590P3:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters Australia se plantea prohibir el uso de gafas inteligentes en los edificios públicos</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911U:0/</link>
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911U:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 13:28:45 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911U:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 2 horas Reuters Crudo amplía pérdidas mientras se reducen temores sobre interrupción del suministro</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LY:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LY:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LY:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <title>hace 14 minutos Reuters Peso mexicano gana terreno apuntalado por caída de los precios del petróleo</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L1N45812M:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L1N45812M:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L1N45812M:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>hace 2 horas Reuters El oro sube mientras operadores evalúan posiciones tras alza de tasas de interés</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LD:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LD:0/</guid>
-      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LD:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <title>hace 17 minutos Reuters Generac, Jefferies, Applied Digital</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45919H:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45919H:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45919H:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 21 minutos Reuters Las principales agencias de valores ven una subida más de las tasas de la Fed en 2026 tras la reunión de política monetaria</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45918Z:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45918Z:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45918Z:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 23 minutos Reuters GlobalFoundries y Marvell amplían su acuerdo de capacidad de producción de chips para la conectividad de los centros de datos de IA</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45918L:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45918L:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45918L:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 28 minutos Reuters El organismo regulador del mercado de valores de EEUU establece una exención de cinco años para la negociación de acciones tokenizadas</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459187:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459187:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459187:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 28 minutos Reuters La startup británica de IA Emulate, fundada por antiguos investigadores de Google DeepMind, está en negociaciones para recaudar 700 millones de dólares - Bloomberg News</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459183:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459183:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459183:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 28 minutos Reuters Las acciones suben, los bonos se mantienen estables y los rendimientos a corto plazo repuntan ligeramente tras la subida de tipos de la Fed, mientras que el Banco de Inglaterra mantiene sus tipos</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45917Y:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45917Y:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45917Y:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 30 minutos Reuters Blackstone pretende liquidar las participaciones de algunos inversionistas de sus fondos inmobiliarios - Bloomberg News</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45917H:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45917H:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45917H:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 32 minutos Reuters Las solicitudes semanales de subsidio por desempleo en EEUU caen de forma inesperada</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590RB:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590RB:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590RB:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 32 minutos Cointelegraph S&amp;P Global adquirirá la plataforma de seguridad blockchain OpenZeppelin</title>
+      <link>https://es.tradingview.com/news/cointelegraph:749328bb609cd:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:749328bb609cd:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:749328bb609cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 35 minutos Reuters La empresa india Tata renueva al presidente y respalda la salida a bolsa en medio de una disputa con la organización benéfica que ejerce el control</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459172:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459172:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459172:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 36 minutos Reuters Los principales bancos centrales se encaminan hacia una política monetaria más restrictiva ante la crisis de los precios de la energía</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45916I:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45916I:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45916I:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 37 minutos Reuters El BoE alerta sobre la inflación pese a mantener las tasas de interés</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590Q2:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590Q2:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590Q2:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 39 minutos Reuters Wall Street se dispone a abrir al alza, ya que la bajada de los precios del petróleo alivia las preocupaciones sobre la subida de tasas de interés de la Fed</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459161:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459161:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459161:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Cointelegraph La adopción de las criptomonedas florece en Alemania, mientras que el Reino Unido se queda «rezagado», afirma un investigador de CoinShares</title>
+      <link>https://es.tradingview.com/news/cointelegraph:f1d313f5109cd:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:f1d313f5109cd:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:f1d313f5109cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters DATOS MACRO- Pedidos de ayuda por desempleo en EEUU alcanzan 196​.000, ​por debajo de lo previsto​​​​​​</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914G:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914G:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914G:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters DATOS MACRO- Inicios construcción viviendas en EEUU se sitúan en 1,275​ millones en agosto, por debajo de lo previsto</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914H:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914H:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914H:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters DATOS MACRO- El índice de la Fed de Filadelfia ​​​​cae a 37,8​​​​​ en septiembre​​, mejor de lo previsto</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914F:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914F:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45914F:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters Lucid y Bolt se alían para poner en circulación 25 000 robotaxis en toda Europa</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459139:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459139:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459139:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora TradingView Datos clave: XRPUSD cae ~10%; $26.9 millones en liquidaciones de posiciones largas, financiación negativa y volumen institucional</title>
+      <link>https://es.tradingview.com/news/tradingview:7536a0d7444de:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/tradingview:7536a0d7444de:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/tradingview:7536a0d7444de:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora TradingView Datos clave: ZECUSD aprueba bloques de 25 segundos y halving; Ledger añade protección blindada</title>
+      <link>https://es.tradingview.com/news/tradingview:c298c31260981:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/tradingview:c298c31260981:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/tradingview:c298c31260981:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora TradingView Datos clave: H.R. 8957 avanza; CRYPTO:BTCUSD registra salidas de $450 millones, interés abierto +0.68%</title>
+      <link>https://es.tradingview.com/news/tradingview:56685c54e1926:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/tradingview:56685c54e1926:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/tradingview:56685c54e1926:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters Fabricantes automóviles chinos buscan fábricas en Europa ante nueva normativa UE sobre contenido local: asesor BYD</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590OT:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590OT:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590OT:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters El dólar cae desde máximos mientras precios del petróleo continúan bajando</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590ON:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590ON:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590ON:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters Lockheed Martin desvela un nuevo misil secreto y acelera su producción</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911Q:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911Q:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911Q:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters Bolt y Lucid se fijan el objetivo de alcanzar al menos 25 000 vehículos autónomos en Europa</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911N:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911N:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911N:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 1 hora Reuters Lucid y Bolt se alían para poner en marcha 25 000 robotaxis en toda Europa</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911L:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911L:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45911L:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Actividad corporativa ﻿ ﻿</title>
+      <link>https://es.tradingview.com/news/corporate-activity/all/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/corporate-activity/all/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:28:44 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/corporate-activity/all/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hershey gana el juicio por las calabazas de Halloween de Reese's que carecían de tallados «geniales»</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45919X:0/</link>
+      <guid isPermaLink="false">tag:reuters.com,2026:newsml_L8N45919X:0</guid>
+      <pubDate>Thu, 17 Sep 2026 13:24:22 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Reuters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; NYSE:HSY&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45919X:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Reuters</author>
+      <category>Reuters</category>
+      <category>NYSE:HSY</category>
+    </item>
+    <item>
+      <title>Exxon revisa al alza sus previsiones de emisiones globales para 2050 y prevé un descenso más lento del carbón</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459189:0/</link>
+      <guid isPermaLink="false">tag:reuters.com,2026:newsml_L8N459189:0</guid>
+      <pubDate>Thu, 17 Sep 2026 13:00:31 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Reuters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; NYSE:XOM&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459189:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Reuters</author>
+      <category>Reuters</category>
+      <category>NYSE:XOM</category>
     </item>
     <item>
       <title>Criteria Caixa pagará un dividendo de 150 millones de euros al accionista único</title>
@@ -637,6 +671,16 @@
       <category>Reuters</category>
       <category>NASDAQ:CG</category>
       <category>EURONEXT:GALP</category>
+    </item>
+    <item>
+      <title>Amper cierra un pedido de 4,8 millones de euros para el suministro de 150.000 equipos de medición de agua</title>
+      <link>https://es.tradingview.com/news/europapress:bcb9eb7f209cd:0/</link>
+      <guid isPermaLink="false">europapress:bcb9eb7f209cd:0</guid>
+      <pubDate>Thu, 17 Sep 2026 11:58:56 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Europa Press&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; BME:AMP&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/europapress:bcb9eb7f209cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Europa Press</author>
+      <category>Europa Press</category>
+      <category>BME:AMP</category>
     </item>
     <item>
       <title>Los líderes del sector tecnológico y los gobiernos, divididos ante los temores sobre el «fin del mundo por culpa de la IA»</title>
@@ -1125,18 +1169,6 @@
       <category>BME:EZE</category>
     </item>
     <item>
-      <title>Recompras de hasta el 20% del capital que modifican precios: Repsol, Arcelor Mittal, Sabadell</title>
-      <link>https://es.tradingview.com/news/estrategiasdeinversion:353f95c4509cd:0/</link>
-      <guid isPermaLink="false">estrategiasdeinversion:353f95c4509cd:0</guid>
-      <pubDate>Thu, 17 Sep 2026 04:20:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Estrategias de Inversión&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; BME:REP, EURONEXT:MT, BME:SAB&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/estrategiasdeinversion:353f95c4509cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Estrategias de Inversión</author>
-      <category>Estrategias de Inversión</category>
-      <category>BME:REP</category>
-      <category>EURONEXT:MT</category>
-      <category>BME:SAB</category>
-    </item>
-    <item>
       <title>Berkshire podría aumentar su participación en empresas comerciales japonesas, según Itochu - Bloomberg News</title>
       <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N459038:0/</link>
       <guid isPermaLink="false">tag:reuters.com,2026:newsml_L8N459038:0</guid>
@@ -1164,28 +1196,6 @@
       <author>Reuters</author>
       <category>Reuters</category>
       <category>NASDAQ:GOOG</category>
-    </item>
-    <item>
-      <title>Un tribunal de apelación de EEUU impide a Kalshi ofrecer contratos sobre eventos en territorios de los nativos americanos</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581SX:0/</link>
-      <guid isPermaLink="false">tag:reuters.com,2026:newsml_L8N4581SX:0</guid>
-      <pubDate>Wed, 16 Sep 2026 19:53:34 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Reuters&lt;/p&gt;&lt;p&gt;{'type': 'root', 'children': [{'type': 'list', 'children': [{'type': '*', 'children': ['El Noveno Circuito afirma que es probable que las tribus demuestren que Kalshi infringió la ley federal sobre juegos de azar']}, {'type': '*', 'children': ['Robinhood alegó que perdería un negocio sustancial si las tribus salieran ganadoras']}, {'type': '*', 'children': ['Una coalición bipartidista formada por 27 estados y Washington D. C. respaldó a las tribus']}, {'type': '*', 'children': ['Kalshi podría recurrir, alegando que la CFTC merece una supervisión']}]}]}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; NASDAQ:HOOD, NASDAQ:KALSHI&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581SX:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Reuters</author>
-      <category>Reuters</category>
-      <category>NASDAQ:HOOD</category>
-      <category>NASDAQ:KALSHI</category>
-    </item>
-    <item>
-      <title>Goldman Sachs prevé un ligero descenso en sus actividades de renta fija, divisas y materias primas, así como un aumento de los costes</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581R7:0/</link>
-      <guid isPermaLink="false">tag:reuters.com,2026:newsml_L8N4581R7:0</guid>
-      <pubDate>Wed, 16 Sep 2026 19:31:28 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Reuters&lt;/p&gt;&lt;p&gt;{'type': 'root', 'children': [{'type': 'list', 'children': [{'type': '*', 'children': ['Las acciones caen casi un 4 % en medio de la caída del sector']}, {'type': '*', 'children': ['El director ejecutivo afirma que el negocio de renta variable se mantiene sólido']}]}]}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; NYSE:GS, NYSE:BAC&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581R7:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Reuters</author>
-      <category>Reuters</category>
-      <category>NYSE:GS</category>
-      <category>NYSE:BAC</category>
     </item>
     <item>
       <title>El Ibex 35 supera los 19.600 puntos a la espera de la Fed</title>
@@ -2090,6 +2100,166 @@
       <author>Europa Press</author>
       <category>Europa Press</category>
       <category>BME:BBVA</category>
+    </item>
+    <item>
+      <title>hace 2 horas Reuters Las empresas farmacéuticas se preparan para la siguiente fase de los medicamentos espaciales a medida que se acerca el fin de la vida útil de la ISS</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590QC:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590QC:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590QC:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 2 horas Reuters La NASA afirma que la vida útil del nuevo Telescopio Roman podría más que duplicarse, hasta alcanzar los 22 años</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Q5:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Q5:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590Q5:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 2 horas Reuters Según un memorándum, BofA contrata a Srijith Nair, de Goldman, para dirigir la banca dirigida a instituciones financieras de Asia, excepto China</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590OP:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590OP:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590OP:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 3 horas Reuters Las acciones de Berentzen se disparan mientras Sazerac estudia la adquisición del fabricante alemán de aguardiente</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590N7:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590N7:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590N7:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 3 horas Reuters La empresa china Huawei afirma que la demanda de chips de IA supera a la oferta, al tiempo que intensifica su competencia con Nvidia</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LM:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LM:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4590LM:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ayer Invezz El precio de Cardano pierde soporte clave: ¿podría ADA caer otro 15% desde aquí?</title>
+      <link>https://es.tradingview.com/news/invezz:7dcf79aec09cd:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/invezz:7dcf79aec09cd:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/invezz:7dcf79aec09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ayer Cointelegraph Etiopía reduce en un 77% la electricidad para los mineros de Bitcoin ante la escasez hidroeléctrica: informe</title>
+      <link>https://es.tradingview.com/news/cointelegraph:b551f04f909cd:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:b551f04f909cd:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:b551f04f909cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 8 horas Reuters Según informan los medios de comunicación, Indonesia comenzará a recaudar impuestos sobre el comercio electrónico a partir del 1 de octubre</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45905Q:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45905Q:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45905Q:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 8 horas Reuters Las acciones indias se mantienen estables tras la subida de tasas de la Fed; la OPI de la NSE, en el punto de mira</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45904G:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45904G:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45904G:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 9 horas Reuters La previsión de Goldman de una subida de tasas en octubre pone de relieve los renovados riesgos de endurecimiento de la política monetaria de la Fed</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45903T:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45903T:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45903T:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 10 horas Reuters Se prevé que la bolsa india abra sin cambios tras las señales de la Fed de nuevas subidas de tasas; la salida a bolsa de la NSE acapara la atención</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902S:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902S:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902S:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3 hace 10 horas Reuters Las acciones suben ligeramente tras la subida de tipos de la Fed; el dólar se dispara junto con los rendimientos a corto plazo</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902J:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902J:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45902J:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 11 horas Reuters Goldman Sachs prevé ahora que la Fed vuelva a subir las tasas de interés en octubre</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901M:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901M:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901M:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 11 horas Reuters Estados Unidos relaja temporalmente las restricciones sobre las horas de trabajo de los conductores de camiones cisterna</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901C:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901C:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45901C:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 13 horas Reuters La Cámara de Representantes de EEUU aprueba el primer proyecto de ley que aborda las repercusiones económicas del auge de los centros de datos</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45824L:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45824L:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45824L:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 14 horas Reuters Trump afirma que sigue confiando en el presidente de la Reserva Federal, Warsh</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45823J:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45823J:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N45823J:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 2 horas Reuters Crudo amplía pérdidas mientras se reducen temores sobre interrupción del suministro</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LY:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LY:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LY:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hace 2 horas Reuters El oro sube mientras operadores evalúan posiciones tras alza de tasas de interés</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LD:0/</link>
+      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LD:0/</guid>
+      <pubDate>Thu, 17 Sep 2026 12:33:36 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N4590LD:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recompras de hasta el 20% del capital que modifican precios: Repsol, Arcelor Mittal, Sabadell</title>
+      <link>https://es.tradingview.com/news/estrategiasdeinversion:353f95c4509cd:0/</link>
+      <guid isPermaLink="false">estrategiasdeinversion:353f95c4509cd:0</guid>
+      <pubDate>Thu, 17 Sep 2026 04:20:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Estrategias de Inversión&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; BME:REP, EURONEXT:MT, BME:SAB&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/estrategiasdeinversion:353f95c4509cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Estrategias de Inversión</author>
+      <category>Estrategias de Inversión</category>
+      <category>BME:REP</category>
+      <category>EURONEXT:MT</category>
+      <category>BME:SAB</category>
+    </item>
+    <item>
+      <title>Un tribunal de apelación de EEUU impide a Kalshi ofrecer contratos sobre eventos en territorios de los nativos americanos</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581SX:0/</link>
+      <guid isPermaLink="false">tag:reuters.com,2026:newsml_L8N4581SX:0</guid>
+      <pubDate>Wed, 16 Sep 2026 19:53:34 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Reuters&lt;/p&gt;&lt;p&gt;{'type': 'root', 'children': [{'type': 'list', 'children': [{'type': '*', 'children': ['El Noveno Circuito afirma que es probable que las tribus demuestren que Kalshi infringió la ley federal sobre juegos de azar']}, {'type': '*', 'children': ['Robinhood alegó que perdería un negocio sustancial si las tribus salieran ganadoras']}, {'type': '*', 'children': ['Una coalición bipartidista formada por 27 estados y Washington D. C. respaldó a las tribus']}, {'type': '*', 'children': ['Kalshi podría recurrir, alegando que la CFTC merece una supervisión']}]}]}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; NASDAQ:HOOD, NASDAQ:KALSHI&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581SX:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Reuters</author>
+      <category>Reuters</category>
+      <category>NASDAQ:HOOD</category>
+      <category>NASDAQ:KALSHI</category>
+    </item>
+    <item>
+      <title>Goldman Sachs prevé un ligero descenso en sus actividades de renta fija, divisas y materias primas, así como un aumento de los costes</title>
+      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581R7:0/</link>
+      <guid isPermaLink="false">tag:reuters.com,2026:newsml_L8N4581R7:0</guid>
+      <pubDate>Wed, 16 Sep 2026 19:31:28 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Reuters&lt;/p&gt;&lt;p&gt;{'type': 'root', 'children': [{'type': 'list', 'children': [{'type': '*', 'children': ['Las acciones caen casi un 4 % en medio de la caída del sector']}, {'type': '*', 'children': ['El director ejecutivo afirma que el negocio de renta variable se mantiene sólido']}]}]}&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; NYSE:GS, NYSE:BAC&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N4581R7:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Reuters</author>
+      <category>Reuters</category>
+      <category>NYSE:GS</category>
+      <category>NYSE:BAC</category>
     </item>
     <item>
       <title>hace 1 hora Reuters Los precios del petróleo amplían sus pérdidas a medida que disminuyen los temores sobre la interrupción del suministro</title>
@@ -23995,182 +24165,6 @@
       <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z0EC:0/</guid>
       <pubDate>Mon, 07 Sep 2026 12:34:59 +0000</pubDate>
       <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z0EC:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>La CNMV admite a trámite la OPA de Ohmnia sobre Azkoyen</title>
-      <link>https://es.tradingview.com/news/estrategiasdeinversion:200ee332e09cd:0/</link>
-      <guid isPermaLink="false">estrategiasdeinversion:200ee332e09cd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 12:20:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Estrategias de Inversión&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/estrategiasdeinversion:200ee332e09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Estrategias de Inversión</author>
-      <category>Estrategias de Inversión</category>
-    </item>
-    <item>
-      <title>La crisis política en Francia tumba a los bancos y arrastra al IBEX 35</title>
-      <link>https://es.tradingview.com/news/finanzas:f206b824509cd:0/</link>
-      <guid isPermaLink="false">finanzas:f206b824509cd:0</guid>
-      <pubDate>Thu, 27 Aug 2026 07:17:59 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Finanzas.com&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; BME:IBC, NASDAQ:NVDA&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/finanzas:f206b824509cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Finanzas.com</author>
-      <category>Finanzas.com</category>
-      <category>BME:IBC</category>
-      <category>NASDAQ:NVDA</category>
-    </item>
-    <item>
-      <title>anteayer Cointelegraph FinCEN vincula 13.000 millones de dólares en estafas de criptomonedas con operaciones fuera de EE. UU.</title>
-      <link>https://es.tradingview.com/news/cointelegraph:6450086b009cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:6450086b009cd:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:6450086b009cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>anteayer Cointelegraph Crypto Biz: la IA pasó a un segundo plano cuando Bitcoin comenzó a subir</title>
-      <link>https://es.tradingview.com/news/cointelegraph:608d8c7a009cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:608d8c7a009cd:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:608d8c7a009cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 10 horas Reuters Las bolsas asiáticas repuntan, mientras que el resto se muestra cauteloso ante la subida del precio del petróleo</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z00J:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z00J:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z00J:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ayer Reuters Los inversores analizarán minuciosamente los datos sobre la inflación en busca de indicios sobre la trayectoria de las tasas de interés</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Y04B:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Y04B:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Y04B:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ayer Estrategias de Inversión La economía de Marruecos ya crece el doble que la de España y el FMI vaticina que crecerá de forma estable cerca de un 4% durante años</title>
-      <link>https://es.tradingview.com/news/estrategiasdeinversion:ac0a2e0af09cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/estrategiasdeinversion:ac0a2e0af09cd:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/estrategiasdeinversion:ac0a2e0af09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 3 horas Reuters Las bolsas se ven sacudidas por el riesgo de inflación derivado del aumento del precio del petróleo y la inestable situación geopolítica</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z0D2:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z0D2:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z0D2:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 3 horas Reuters El oro cae ante expectativas de subida de tasas con la atención en el IPC de EEUU</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44Z0CH:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44Z0CH:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44Z0CH:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 4 horas Reuters Bubs Australia obtiene la autorización definitiva de la FDA para la venta de leche de fórmula para bebés en EEUU; sus acciones se disparan</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z09S:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z09S:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:48 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z09S:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 4 horas Reuters TotalEnergies reducirá su participación en Papua LNG y cederá la gestión a Exxon</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z08O:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z08O:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:48 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z08O:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 4 horas Reuters Bubs Australia obtiene la autorización definitiva de la FDA para la venta de leche de fórmula para lactantes en EEUU; sus acciones se disparan</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z06W:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z06W:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:48 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z06W:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 5 horas Reuters TotalEnergies cederá la gestión de Papua LNG a Exxon</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z06A:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z06A:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:48 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44Z06A:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hace 5 horas Reuters Al menos 5 muertos en el accidente de un avión de carga de Amazon Prime Air en Miami</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44Z087:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44Z087:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 11:28:48 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44Z087:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>UBS aumenta su participación en Indra por encima del 3%</title>
-      <link>https://es.tradingview.com/news/estrategiasdeinversion:f59eb862909cd:0/</link>
-      <guid isPermaLink="false">estrategiasdeinversion:f59eb862909cd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Estrategias de Inversión&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; BME:IDR&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/estrategiasdeinversion:f59eb862909cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Estrategias de Inversión</author>
-      <category>Estrategias de Inversión</category>
-      <category>BME:IDR</category>
-    </item>
-    <item>
-      <title>La CNMV admite a trámite la opa presentada por Ohmnia Electronics sobre Azkoyen</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44W0NQ:0/</link>
-      <guid isPermaLink="false">tag:reuters.com,2026:newsml_L6N44W0NQ:0</guid>
-      <pubDate>Fri, 04 Sep 2026 11:44:58 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Reuters&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; BME:AZK&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44W0NQ:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Reuters</author>
-      <category>Reuters</category>
-      <category>BME:AZK</category>
-    </item>
-    <item>
-      <title>El banco suizo UBS vuelve a aumentar su participación en Indra a niveles superiores al 3%</title>
-      <link>https://es.tradingview.com/news/europapress:6da686cf909cd:0/</link>
-      <guid isPermaLink="false">europapress:6da686cf909cd:0</guid>
-      <pubDate>Fri, 04 Sep 2026 11:25:31 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt; Europa Press&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Valores relacionados:&lt;/strong&gt; BME:IDR&lt;/p&gt;&lt;p&gt;&lt;a href="https://es.tradingview.com/news/europapress:6da686cf909cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-      <author>Europa Press</author>
-      <category>Europa Press</category>
-      <category>BME:IDR</category>
-    </item>
-    <item>
-      <title>anteayer Cointelegraph QuFi lanza una plataforma de verificación poscuántica con una prueba en la testnet de Bitcoin</title>
-      <link>https://es.tradingview.com/news/cointelegraph:77706015309cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:77706015309cd:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:28:42 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:77706015309cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>anteayer Cointelegraph Grupo policial estadounidense adopta una posición «neutral» sobre la Ley CLARITY</title>
-      <link>https://es.tradingview.com/news/cointelegraph:af86b6efc09cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/cointelegraph:af86b6efc09cd:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:28:42 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/cointelegraph:af86b6efc09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>anteayer Europa Press Hortigüela (Ametic) pide simplificar los fondos europeos y confía en que España lidere los centros de datos</title>
-      <link>https://es.tradingview.com/news/europapress:94611120709cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/europapress:94611120709cd:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:28:42 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/europapress:94611120709cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>anteayer Europa Press Sacyr se adjudica una concesión de 110 kilómetros en Chile con 800 millones de euros de inversión</title>
-      <link>https://es.tradingview.com/news/europapress:cf5965c2d09cd:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/europapress:cf5965c2d09cd:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:28:42 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/europapress:cf5965c2d09cd:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>anteayer Reuters Las exportaciones de Corea del Sur superan el récord anual y alcanzan los 709.4 mil millones de dólares en lo que va de año</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44X01H:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44X01H:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:28:42 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44X01H:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>anteayer Reuters Las exportaciones de Corea del Sur superan el récord anual y alcanzan los 709.400 millones de dólares en lo que va de año</title>
-      <link>https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44X010:0/</link>
-      <guid isPermaLink="false">https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44X010:0/</guid>
-      <pubDate>Mon, 07 Sep 2026 10:28:42 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://es.tradingview.com/news/reuters.com,2026:newsml_L8N44X010:0/"&gt;Abrir noticia en TradingView&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
